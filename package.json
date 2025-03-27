@@ -1,0 +1,23 @@
+{
+  "name": "week01",
+  "version": "1.0.0",
+  "description": "Objective fot this exercise was to set up the core development tools, to learn basic Git workflows, and to create a simple NodeJS script that connects to MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AimiSprout/berr2243-week1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AimiSprout/berr2243-week1/issues"
+  },
+  "homepage": "https://github.com/AimiSprout/berr2243-week1#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
